@@ -6,5 +6,23 @@
         "source": "base_assistant",
         "content": "Welcome to your new project! I can help you edit it however you want. What would you like to do?",
         "metadata": {}
+    },
+    {
+        "id": "22496f00-79c8-4124-b248-a285d75c59cb",
+        "timestamp": "2024-12-10T14:41:51.020193Z",
+        "role": "user",
+        "source": "web_client",
+        "content": "Please add a bar chart",
+        "metadata": {
+            "component_id": "Hero1733841660"
+        }
+    },
+    {
+        "id": "63e0bc4c-37cd-4b13-9ea7-2a021504841b",
+        "timestamp": "2024-12-10T14:41:53.790422Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To add a bar chart, please go to the \"Components\" tab on the MakeInfinite studio and drag and drop the bar chart component into the canvas. Once added, I can help you customize it.",
+        "metadata": {}
     }
 ]
