@@ -16,5 +16,13 @@
         "metadata": {
             "component_id": "Hero1733841660"
         }
+    },
+    {
+        "id": "63e0bc4c-37cd-4b13-9ea7-2a021504841b",
+        "timestamp": "2024-12-10T14:41:53.790422Z",
+        "role": "assistant",
+        "source": "base_assistant",
+        "content": "To add a bar chart, please go to the \"Components\" tab on the MakeInfinite studio and drag and drop the bar chart component into the canvas. Once added, I can help you customize it.",
+        "metadata": {}
     }
 ]
